@@ -1,0 +1,65 @@
+.input-custom {
+    background-color: transparent !important;
+    color: rgb(255, 255, 255) !important;
+    border-top: none !important;
+    border-right: none !important;
+    border-radius: 0px !important;
+    border-left: none !important;
+    padding: 0 !important;
+
+}
+
+.input-custom::placeholder {
+    color: rgb(255, 255, 255) !important;
+
+}
+
+.btno-custom {
+    border-radius: 0px !important;
+    border: 2px solid #941C4E !important;
+    color: #941C4E !important;
+    font-weight: 500 !important;
+    width: 160px;
+}
+
+.btno-custom:hover {
+    background-color: #941C4E !important;
+    color: #fafafa !important;
+
+}
+
+.btn-custom {
+    border-radius: 0px !important;
+    border: 2px solid #941C4E !important;
+    background-color: #941C4E !important;
+    color: #fafafa !important;
+    font-weight: 500 !important;
+    width: 160px;
+}
+
+.btn-custom:hover {
+    background-color: transparent !important;
+    color: #941C4E !important;
+
+}
+
+.col-custom {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+
+}
+
+.card-post {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 25px;
+
+}
+
+.container {
+    padding: 0px !important;
+}
+
+.color-text {
+    color: #fff !important;
+}
